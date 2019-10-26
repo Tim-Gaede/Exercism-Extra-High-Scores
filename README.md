@@ -21,7 +21,6 @@ throw("Meaningful message indicating the source of the error")
 ```
 ## Version compatibility
 This exercise has been tested on Julia 1.2.
-`
 
 ## Submitting Exercises
 
